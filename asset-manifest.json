@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-techcompanies/static/css/main.1242dfec.css",
+    "main.js": "/react-techcompanies/static/js/main.622f40fa.js",
+    "static/js/787.a4541769.chunk.js": "/react-techcompanies/static/js/787.a4541769.chunk.js",
+    "index.html": "/react-techcompanies/index.html",
+    "main.1242dfec.css.map": "/react-techcompanies/static/css/main.1242dfec.css.map",
+    "main.622f40fa.js.map": "/react-techcompanies/static/js/main.622f40fa.js.map",
+    "787.a4541769.chunk.js.map": "/react-techcompanies/static/js/787.a4541769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1242dfec.css",
+    "static/js/main.622f40fa.js"
+  ]
+}
